@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jose
+### Hi! 👋, my name is Jose,
 #### Design and Development
 
 ![Design and Development](https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technological-sense-geometric-line-simple-image_19419.jpg)
