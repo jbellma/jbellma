@@ -5,5 +5,5 @@ I am a passionate code 🐒 from 🇮🇪 and I love learning new languages and 
 
 Skills: RUBY / RAILS / PYTHON / JS / HTML / CSS
 
-- 🌱 I’m currently learning RAILS, C++ and Java. 
+- 🌱 I’m currently learning C++ and Java. 
 - 💬 Ask me about surf, cheese and wine! 
