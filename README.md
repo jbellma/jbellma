@@ -6,11 +6,10 @@
 
 I'm Jose, an enthusiastic junior developer who adores discovering new tools, frameworks, and programming languages. I'm looking for new challenges and projects to further develop my coding career.
 
-Skills: RUBY / RAILS / PYTHON / JS / HTML / CSS / VIM
-
 - 🌱 I’m currently learning Django, C++ and Java. 
 - 💬 Ask me about surf, cheese and wine! 
 
+Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,linux,python,django,java,js,ruby,rails,html,css,matlab,mysql,postgres,heroku,bootstrap,blender&perline=9)](https://skillicons.dev)
 
